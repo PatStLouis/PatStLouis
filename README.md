@@ -1,20 +1,23 @@
 # Hi, I'm Patrick 👋
 
-I like open standards, cryptography that has to be right, and software other people can build on.
+I care about open standards, cryptography that has to be right, and software people can build on.
 
-- 🔭 **Working on:** W3C Verifiable Credentials (VCALM, Rendering Methods), `did:webvh`, AnonCreds
-- ⚡ **Background:** cybersecurity, networking, DevOps
-- 🍳 **Before tech:** ten years as a chef in fine dining
+Before tech I spent ten years cooking in fine dining. The habits from that still shape how I work: careful with details, calm under pressure, and proud of what goes out the door.
 
-**Stack:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+## What I work on
 
-### Projects
+- **Digital identity:** verifiable credentials, DIDs, and zero-knowledge proofs
+- **Standards:** W3C Verifiable Credentials and related specifications
+- **Infrastructure:** cybersecurity, networking, and DevOps
 
-| Project | What it is |
-|---|---|
-| [oca-render-method](https://github.com/OpSecId/oca-render-method) | OCA render method for Verifiable Credentials |
-| [fast-anoncreds](https://github.com/OpSecId/fast-anoncreds) | VC-API implementation of the anoncreds-rs Python wrapper |
-| [didcomm-mcp](https://github.com/OpSecId/didcomm-mcp) | MCP server for DIDComm |
-| [didwebvh-tutorial](https://github.com/OpSecId/didwebvh-tutorial) | Hands-on `did:webvh` server tutorial |
+## Projects
 
-📍 Gatineau, Québec · [opsecid.ca](https://opsecid.ca) · [LinkedIn](https://www.linkedin.com/in/patrick-stlouis/)
+- **[UNTP Publisher](https://github.com/bcgov/untp-publisher-service):** publishes Mines Act permits as verifiable credentials for the BC Government.
+- **[ACA-Py](https://github.com/openwallet-foundation/acapy) + [PyDentity Wallet](https://github.com/openwallet-foundation-labs/PyDentity-Wallet):** an ACA-Py agent with a mobile PWA wallet.
+- **W3C test suites:** interoperability suites for [VC Data Model 2.0](https://github.com/w3c/vc-data-model-2.0-test-suite), [Bitstring Status List](https://github.com/w3c/vc-bitstring-status-list-test-suite), and [Data Integrity ECDSA](https://github.com/w3c/vc-di-ecdsa-test-suite).
+
+## Links
+
+[opsecid.ca](https://opsecid.ca) · [LinkedIn](https://www.linkedin.com/in/patrick-stlouis/) · [GitHub](https://github.com/PatStLouis) · [W3C](https://www.w3.org/users/162334/)
+
+📍 Gatineau, Québec
